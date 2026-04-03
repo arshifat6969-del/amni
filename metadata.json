@@ -1,0 +1,5 @@
+{
+  "name": "Balo Hoye Ja Engine",
+  "description": "A simple text-processing engine that prepends 'balo hoye ja' to any name provided.",
+  "requestFramePermissions": []
+}
